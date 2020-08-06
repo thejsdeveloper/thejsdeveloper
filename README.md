@@ -3,7 +3,11 @@
 
 </a>
 <a href="https://twitter.com/@VikasYadav_Dev">
-  <img align="left" alt="Vikas Yadav | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Vikas Yadav | Twitter" width="21px" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/twitter-seeklogo.com%202.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/vikasyadav-mech2009/">
+  <img align="left" alt="Vikas Yadav | Twitter" width="21px" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/linkedin-in-icon-seeklogo.com.eps" />
 </a>
 
 <a href="https://medium.com/@vikasyadav.mech2009">
