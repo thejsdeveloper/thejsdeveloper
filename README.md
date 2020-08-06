@@ -42,3 +42,7 @@ Hi, I'm Vikas Yadav, Senior Frontend Developer with 6 years of extensive experie
 <a href="https://github.com/thejsdeveloper/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejsdeveloper&layout=compact&theme=radical" />
 </a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thejsdeveloper/count.svg" />
+</p>
