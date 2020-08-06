@@ -1,3 +1,5 @@
+![image](https://github.com/thejsdeveloper/thejsdeveloper/blob/master/dino.gif)
+
 ### Hi there, I'm [Vikas!](https://github.com/thejsdeveloper) 👋
 
 
