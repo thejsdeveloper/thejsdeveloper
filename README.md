@@ -6,6 +6,10 @@
   <img align="left" alt="Vikas Yadav | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+<a href="https://medium.com/@vikasyadav.mech2009">
+  <img align="left" alt="Vikas Yadav | Twitter" width="21px" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/medium.svg" />
+</a>
+
 
 <br />
 <br />
