@@ -34,12 +34,3 @@ Hi, I'm Vikas Yadav, Senior Frontend Developer with 6 years of extensive experie
 <a href="https://github.com/thejsdeveloper/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejsdeveloper&layout=compact&theme=radical" />
 </a>
-
-<a href="https://github.com/thejsdeveloper/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thejsdeveloper&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/thejsdeveloper/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thejsdeveloper&repo=thejsdeveloper.github.io&theme=radical" />
-</a>
