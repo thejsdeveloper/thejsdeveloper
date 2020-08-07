@@ -32,7 +32,11 @@ Hi, I'm Vikas Yadav, Senior Frontend Developer with 6 years of extensive experie
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/html.svg"></code>
+<code><img height="20" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/sass.svg"></code>
+<code><img height="20" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/css.svg"></code>    
+
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](github-readme-stats.vercel.app)*
