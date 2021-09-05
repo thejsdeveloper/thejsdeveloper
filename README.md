@@ -23,7 +23,7 @@
 Hi, I'm Vikas Yadav, Senior Frontend Developer with 6 years of extensive experience in JavaScript.
 
 - 🔭 I’m currently working on my project [Trello Clone](https://github.com/thejsdeveloper/trello-clone) and [Youtube Clone (RN)](https://github.com/thejsdeveloper/Youtube)
-- 🌱 I’m currently learning React & Flutter
+- 🌱 I’m currently learning Advance React Patterns.
 - 💬 Ask me about anything [here](https://twitter.com/@VikasYadav_Dev)
 
 **Languages and Tools:**  
