@@ -9,11 +9,15 @@
 </a>
 
 <a href="https://www.linkedin.com/in/vikasyadav-mech2009/">
-  <img align="left" alt="Vikas Yadav | Twitter" width="21px" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/linkedin.svg" />
+  <img align="left" alt="Vikas Yadav | linkedin" width="21px" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/linkedin.svg" />
+</a>
+
+<a href="https://dev.to/thejsdeveloper">
+  <img align="left" alt="Vikas Yadav | DEV.to" width="21px" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/dev-badge.svg" />
 </a>
 
 <a href="https://medium.com/@vikasyadav.mech2009">
-  <img align="left" alt="Vikas Yadav | Twitter" width="21px" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/medium.svg" />
+  <img align="left" alt="Vikas Yadav | medium" width="21px" src="https://github.com/thejsdeveloper/thejsdeveloper/blob/master/medium.svg" />
 </a>
 
 
