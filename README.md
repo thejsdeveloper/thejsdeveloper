@@ -52,6 +52,23 @@ Hi, I'm Vikas Yadav, Senior Frontend Developer with 6 years of extensive experie
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&logoColor=white&style=for-the-badge)
 
+
+### 📝 Latest Articles on [thejsdeveloper.com](https://www.thejsdeveloper.com/)
+
+- [Meet Temporal API: The Future of Date Handling in JavaScript](https://www.thejsdeveloper.com/article/meet-temporal-api-the-future-of-date-handling-in-javascript) <br/><sub>6 May 2025</sub>
+- [What is the Proxy?](https://www.thejsdeveloper.com/article/what-is-the-proxy) <br/><sub>29 Oct 2021</sub>
+- [LinkedList - A JavaScript Implementation](https://www.thejsdeveloper.com/article/linkedlist-a-javascript-implementation) <br/><sub>18 Oct 2021</sub>
+- [Convert any object to iterable](https://www.thejsdeveloper.com/article/convert-any-object-to-iterable) <br/><sub>4 Oct 2021</sub>
+- [Special kind of array in Typescript - Tuple](https://www.thejsdeveloper.com/article/special-kind-of-array-in-typescript-tuple) <br/><sub>26 Sept 2021</sub>
+- [Curious case of sparse array in JavaScript](https://www.thejsdeveloper.com/article/curious-case-of-sparse-array-in-javascript) <br/><sub>19 Sept 2021</sub>
+- [World of Any and Unknown in Typescript](https://www.thejsdeveloper.com/article/world-of-any-and-unknown-in-typescript) <br/><sub>12 Sept 2021</sub>
+
+<p align="center">
+  <a href="https://www.thejsdeveloper.com/">
+    <b>👉 Read more on my blog</b>
+  </a>
+</p>
+
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <a href="https://github.com/thejsdeveloper/github-readme-stats">
